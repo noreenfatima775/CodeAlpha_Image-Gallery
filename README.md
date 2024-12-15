@@ -19,9 +19,7 @@
 ## Installation and Setup
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/snapvibes.git
-   cd snapvibes
-   ```
+   https://github.com/noreenfatima775/CodeAlpha_Image-Gallery.git   ```
 2. **Open in Browser**:
    Open `index.html` in any modern web browser.
 
@@ -59,7 +57,8 @@ snapvibes/
 ## Acknowledgments
 - **[Picsum Photos](https://picsum.photos/)** for the image API.
 - **Google Fonts** for providing the fonts: *Roboto* and *Playfair Display*.
-
-
+  
+## Contributing
+Feel free to fork this repository, make changes, and submit a pull request. Contributions are welcome!
 
 Enjoy exploring **SnapVibes**! 🌟
